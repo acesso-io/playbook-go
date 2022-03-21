@@ -79,5 +79,3 @@ Usamos o [Uber FX](https://github.com/uber-go/fx) como framework de injeção de
 - Lida muito bem como monorepos;
 - Mantido pela Uber.
 
-
-# playbook-go
