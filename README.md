@@ -80,3 +80,4 @@ Usamos o [Uber FX](https://github.com/uber-go/fx) como framework de injeção de
 - Mantido pela Uber.
 
 
+# playbook-go
